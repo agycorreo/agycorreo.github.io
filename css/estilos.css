@@ -1,0 +1,71 @@
+/** External Styles*/
+* { /* Estilos en todos los doc html */
+	box-sizing: border-box;
+	color: black;
+}
+
+body {
+  background-image: url("https://img.freepik.com/vector-premium/papel-tapiz-fondo-abstracto-patron-linea-rayas_206846-1040.jpg");
+  background-repeat: no-repeat;
+  background-size: 100% 20%;
+  background-color: ghostwhite;
+}
+
+*header {
+	border: 1px solid red;
+}
+
+p{
+	color:red;
+	width: 5px;
+}
+
+/* Esto es un comentario
+*/
+h1{
+	font-family: 'Nunito Sans', sans-serif;
+	/*border: 1px solid black;*/
+	padding: 5px; /*area transparente o borde*/
+	margin: 10px;
+	font-weight: bold;
+	color: black;
+	text-align: center;
+}
+h5{
+	font-family: 'Nunito Sans', sans-serif;
+	/*border: 1px solid black;*/
+	padding: 5px; /*area transparente o borde*/
+	margin: 10px;
+	font-weight: bold;
+	color: black;
+	text-align: center;
+}
+
+section{
+	/*border: 1px solid black;*/
+	padding: 5px;
+	margin: 10px;
+	font-weight: bold;
+	color: black;
+}
+
+#otroparrafo {
+	color: blue;
+}
+
+#CVfecha {
+	color: blue;
+}
+
+.estamiclase {
+	color: lightblue;
+}
+
+#Nome {
+	font-family: 'Nunito Sans', sans-serif;
+	font-size: 50px;
+	/*border: 1px solid black;*/
+	font-weight: bold;
+	text-align: center;
+	color: black;
+}
